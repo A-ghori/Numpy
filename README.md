@@ -1,18 +1,19 @@
 # NumPy Tutorial
 
 ## Overview
-This project contains a Jupyter Notebook (`numpy.ipynb`) that serves as a comprehensive tutorial on NumPy, a powerful library for numerical computations in Python. The notebook includes various examples and explanations on how to effectively use NumPy for tasks such as creating arrays, performing mathematical operations, and conducting statistical analysis.
+This project contains a Jupyter Notebook (`numpy.ipynb`) that serves as a comprehensive on NumPy, a powerful library for numerical computations in Python. The notebook includes various examples and explanations on how to effectively use NumPy for tasks such as creating arrays, performing mathematical operations, and conducting statistical analysis.
 
 ## Installation
-To use the NumPy library, you need to have Python installed on your system. You can install NumPy using pip. Open your terminal or command prompt and run the following command:
+To use the NumPy library, you need to have Python installed on your system. You can install NumPy using pip. Open your terminal or command prompt and run the following command or just paste the command in the cell:
 
 ```
-pip install numpy
+!pip install numpy
 ```
 
 ## Usage
 1. Open the `numpy.ipynb` file in Jupyter Notebook or any compatible environment.
 2. Follow the examples provided in the notebook to learn how to create and manipulate arrays, perform operations, and analyze data using NumPy.
+3. It's totally my Experimental Work and I share all problems in details 
 
 ## Features
 - Creating 1D, 2D, and 3D arrays
