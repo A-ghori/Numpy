@@ -24,6 +24,7 @@ pip install numpy
 
 ## Additional Resources
 - [NumPy Documentation](https://numpy.org/doc/stable/)
+- ([It Helps Me A Lot](https://ncert.nic.in/textbook/pdf/keip106.pdf))
 - [NumPy GitHub Repository](https://github.com/numpy/numpy)
 
 Feel free to explore the notebook and experiment with the code examples to enhance your understanding of NumPy!
